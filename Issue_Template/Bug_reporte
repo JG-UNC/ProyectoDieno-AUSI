@@ -1,0 +1,21 @@
+---
+name: "Reporte de bug"
+about: Informar un error
+labels: ["tipo:bug", "prioridad:alta"]
+---
+
+## Comportamiento actual
+(¿Qué pasa?)
+
+## Comportamiento esperado
+(¿Qué debería pasar?)
+
+## Pasos para reproducir
+1. …
+2. …
+
+## Evidencia
+Logs / capturas / mensaje de error.
+
+## Impacto
+(área afectada, severidad)
