@@ -1,0 +1,16 @@
+## Resumen
+(¿Qué cambia y por qué?)
+
+## Tipo de cambio
+- [ ] Feature
+- [ ] Fix
+- [ ] Doc
+- [ ] Refactor
+
+## ¿Cómo probar?
+Pasos, datos de prueba, capturas si aplica.
+
+## Checklist
+- [ ] Pasa lint y tests (si hay)
+- [ ] Actualiza documentación
+- [ ] Referencia issues: closes #ID / relates #ID
