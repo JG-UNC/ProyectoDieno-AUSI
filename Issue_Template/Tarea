@@ -1,0 +1,20 @@
+---
+name: "Tarea técnica"
+about: Trabajo atómico planificable
+labels: ["tipo:tarea"]
+---
+
+## Descripción
+(Trabajo a realizar)
+
+## Definición de Hecho (DoD)
+- [ ] Código / Config listo
+- [ ] Revisado por compañero
+- [ ] Documentado (wiki/README)
+- [ ] Probado
+
+## Estimación
+S / M / L
+
+## Relacionados
+- #ID_ISSUE
