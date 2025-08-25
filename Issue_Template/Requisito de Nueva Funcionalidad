@@ -1,0 +1,22 @@
+---
+name: "Solicitud de funcionalidad"
+about: Proponer una nueva funcionalidad
+labels: ["tipo:feature"]
+---
+
+## Descripción
+(¿Qué problema resuelve? ¿Qué aporta?)
+
+## Criterios de aceptación
+- [ ] …
+- [ ] …
+
+## Alcance / No alcance
+- Incluye: …
+- Excluye: …
+
+## Dependencias
+- #ID_ISSUE (si corresponde)
+
+## Notas
+Adjuntar mockups o referencias.
