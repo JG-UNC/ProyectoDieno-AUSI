@@ -10,17 +10,15 @@ Los prototipos previos de Front/Back quedan **en pausa**; se preservan solo para
 
 | Componente | Estado |
 | --- | --- |
-| Base de datos PostgreSQL | ✅ Aprobada y poblada con datos de prueba |
+| Base de datos | ✅ Aprobada y poblada con datos de prueba |
 | AppSheet (App no-code) | 🚧 En construcción |
-| Backend FastAPI | ⏸️ Pausado |
-| Frontend React | ⏸️ Pausado |
 | Documentación de tesis | 🟡 En curso |
 
 ---
 
 ## Objetivo
 
-Disponer de una app interna para la imprenta que permita **trazabilidad de solicitudes de trabajo**, **gestión de materiales, procesos, equipos y empleados**, con **reportes básicos**; todo **sin código** con AppSheet y **persistencia en PostgreSQL**.
+Disponer de una app interna para la imprenta que permita **trazabilidad de solicitudes de trabajo**, **gestión de materiales, procesos, equipos y empleados**, con **reportes básicos**.
 
 ---
 
