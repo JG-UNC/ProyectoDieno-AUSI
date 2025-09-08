@@ -1,7 +1,7 @@
-# Proyecto Dieno – Gestión de Imprenta (AppSheet + PostgreSQL)
+# Proyecto Dieno – Gestión de Imprenta (AppSheet + Database de appsheet)
 
 Repositorio académico para la tesis y el sistema de gestión de **Dieno Impresos**.  
-Foco actual: **AppSheet** como capa de aplicación sobre la base **PostgreSQL** ya diseñada.  
+Foco actual: **AppSheet** como capa de aplicación sobre la base ** Database de appsheet** ya diseñada.  
 Los prototipos previos de Front/Back quedan **en pausa**; se preservan solo para referencia.
 
 ---
@@ -10,7 +10,7 @@ Los prototipos previos de Front/Back quedan **en pausa**; se preservan solo para
 
 | Componente | Estado |
 | --- | --- |
-| Base de datos | ✅ Aprobada y poblada con datos de prueba |
+| Base de datos, Database de appsheet | ✅ Aprobada y poblada con datos de prueba |
 | AppSheet (App no-code) | 🚧 En construcción |
 | Documentación de tesis | 🟡 En curso |
 
@@ -38,6 +38,4 @@ Disponer de una app interna para la imprenta que permita **trazabilidad de solic
 
 AppSheet Database (opción nativa): alternativa cuando no querés administrar motor; ideal para prototipos rápidos.
 
-Conexión a SQL administrado (Cloud SQL/AWS/Azure): requiere IP pública y allowlist.
 
-Hojas (Sheets/Excel): opción simple, pero menos robusta para concurrencia/volumen.
